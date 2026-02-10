@@ -1,4 +1,5 @@
+flask
 google-generativeai
+gTTS
 python-dotenv
 Pillow
-gTTS
