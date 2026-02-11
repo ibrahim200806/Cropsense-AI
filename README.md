@@ -1,5 +1,7 @@
 🌿 CropSense AI
 
+Link (Temp) : https://christoper-uneleemosynary-liana.ngrok-free.dev/
+
 CropSense AI is an advanced agricultural intelligence platform designed to assist farmers and agronomists. It leverages Google's Gemini Generative AI, Computer Vision, and RAG (Retrieval-Augmented Generation) technology to provide real-time crop analysis, disease identification, and farming advice.
 
 🚀 Features
